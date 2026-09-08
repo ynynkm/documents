@@ -1,0 +1,6 @@
+{
+  "name": "사내 문서 비교 프로그램",
+  "description": "사내 문서(워드, 한글, PDF) 비교, 카테고리별 정리, 저장일 기준 전/후 배치, AI 기반 차이점 하이라이트 및 메모 작성 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
